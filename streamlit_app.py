@@ -1,3 +1,5 @@
 import streamlit
 streamlit.title('Menu')
-streamlit.item('Rice','Dal')
+streamlit.header('Breakfast')
+streamlit.text('Fruits','Juice')
+streamlit.text('That is All')
