@@ -1,2 +1,3 @@
 import streamlit
-streamlit.title('My first App')
+streamlit.title('Menu')
+streamlit.item('Rice','Dal')
